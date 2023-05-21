@@ -59,4 +59,4 @@ Shoaib Mansuri | Aniket Nagpure | Ram Surat | Rishabh Roy | Vikas Suresh
 
 🛠 Tech Stack
 
-Tech stack: HTML | CSS | Javascript | ReactJS | Chakra UI | Redux
+Tech stack: HTML | CSS | Javascript | ReactJS | Chakra UI | Redux..
