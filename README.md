@@ -44,8 +44,7 @@ Deployed Link of project: "https://medzplus.vercel.app/"
 ![WhatsApp Image 2023-04-03 at 10 59 28](https://user-images.githubusercontent.com/92313981/229420767-08185f11-b58b-4343-bc05-6c4589467926.jpg)
                                
                                
-                                                      Developers
- ![WhatsApp Image 2023-04-02 at 22 55 26](https://user-images.githubusercontent.com/92313981/229374201-6f143cf0-33a0-4d9e-8440-cef0f164d720.jpg)
+
                                                      
                                                      
 
