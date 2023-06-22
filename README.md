@@ -1,4 +1,4 @@
-### Deployed Link url :- https://medzplus.vercel.app/
+### Deployed url :- https://medzplus.vercel.app/
 
 # quick-jelly-9961
 
