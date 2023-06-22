@@ -1,3 +1,7 @@
+### Deployed Link :-
+
+https://medzplus.vercel.app/
+
 # quick-jelly-9961
 
 # "Clone of tata 1mg Website"
